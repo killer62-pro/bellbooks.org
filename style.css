@@ -1,0 +1,253 @@
+.bod { 
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    width: 100%;
+}
+.dp{
+    height: 200px;
+    width: 300px;
+    background-image: url(./pct/log.jpg);
+    border-radius: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+    
+}
+.logo{
+    color: lightskyblue;
+    width: 100%;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    color: bisque;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+}
+
+
+
+.header1{
+    background-image: url(./pct/bok.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+}
+
+.menu a {
+    text-decoration-line: none;
+}
+
+a {
+    margin: 15px;
+    background-color: black;
+    color: gold;
+}
+
+a:hover {
+    color: red;
+    background-color: white;
+}
+
+.mid{
+    width: 100%;
+    height: 50%;
+}
+footer{
+    width: 100%;
+    height: 50%;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: orangered;
+
+}
+select{
+    color: purple;
+    background-color: black;
+}
+.bod2{
+    background-image: url(./pct/afr.jpg);
+    
+    
+}
+.last{
+    height: 70px;
+    width: 200px;
+    background-image: url(./pct/bel.jfif);
+    border-radius: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px;
+}
+.ft{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    
+}
+.us{
+    padding: 50px;   
+color:coral;
+text-decoration: none;
+display: flex;
+flex-direction: row;
+align-items: end;
+justify-content: right;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.tm{
+    background-image: url(./pct/bell.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.tie{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    
+}
+
+fieldset{
+    background-color: black;
+    color: brown;
+}
+.CHAND{
+   background-color: black;
+  
+    display: flexbox;
+    flex-direction: column;
+    align-items: center;
+}
+.FD1{
+    background-image: url(./pct/sc.jpg);
+
+    color: green;
+}
+.FD2{
+    background-color:wheat;
+    color: green;
+}
+.FD1 h3{
+    color: red;
+}
+.FD2 h3{
+    color: blue;
+}
+.ch{
+    background-image: url(./pct/CHEM5.jpg);
+    background-size: cover;
+    color: red;
+}
+.gs{
+    border-color: blueviolet;
+    color: red;
+}
+.geg{
+color: red;
+}
+.table{
+    background-image: url(./pct/bx.webp);
+    background-size: cover;
+    background-repeat: no repeat;
+    width: 90vw;
+    height: 200vh;
+    color: brown;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.table td{
+    color: blue;
+}
+header{
+    background-color: black;
+    color: peru;
+    width: 100%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.butimba{
+width: 100%;
+height: 100%;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
